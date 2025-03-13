@@ -4,6 +4,9 @@
 <p align="center">
     <img src="./src/assets/ignite-feed.gif">
 </p>
+<p align="center">
+    <img src="https://img.shields.io/badge/STATUS-Concluído-00875f?style=flat-square">
+</p>
 
 > Projeto de estudo realizado durante a formação de ReactJS da Rocketseat.
 

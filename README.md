@@ -10,13 +10,34 @@
 
 > Projeto de estudo realizado durante a formação de ReactJS da Rocketseat.
 
+
 ## 📌 Sobre o projeto
 
-Este projeto foi desenvolvido durante o módulo de Fundamentos do ReactJS na formação da Rocketseat, proporcionando uma introdução prática ao ecossistema do React e suas principais ferramentas.
+Este projeto foi desenvolvido durante o módulo de **"Fundamentos do ReactJS"** na formação da Rocketseat, proporcionando uma introdução prática ao ecossistema do React e suas principais ferramentas.
+
+Trata-se de uma aplicação de feed interativo onde os usuários podem visualizar e interagir com publicações. A plataforma permite adicionar e remover comentários nos posts, além de aplaudir comentários de outros usuários, incentivando a participação e o engajamento na comunidade.
+
+
 
 ### 🎨 Protótipo:
 
 O protótipo do projeto pode ser acessado em: 🔗 <a href="https://www.figma.com/design/3vmiSNfnP0qPCmsa9unorB/Ignite-Feed?m=auto&t=IhgECG6PM4gsnGRq-6" target="_blank">Figma</a>
+
+
+
+### ⚡ Funcionalidades:
+
+O projeto conta com diversas funcionalidades para garantir uma experiência interativa e dinâmica. Entre elas, destacam-se:
+
+- 📋 Listagem de Posts
+
+- ➕ Adição de novos comentários
+
+- ❌ Exclusão de comentários
+
+- 👏🏻 Aplaudir comentários
+
+
 
 ### 🛠️ Tecnologias
 
@@ -32,15 +53,8 @@ O protótipo do projeto pode ser acessado em: 🔗 <a href="https://www.figma.co
 
 - **Date-fns** • Biblioteca para manipulação de datas.
 
-### ⚡ Funcionalidades:
 
-- 📋 Listagem de Posts
 
-- ➕ Adição de novos comentários
-
-- ❌ Exclusão de comentários
-
-- 👏🏻 Aplaudir comentários
 
 
 ## 🚀 Rodando o Projeto

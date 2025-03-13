@@ -70,10 +70,10 @@ Antes de começar, verifique se você atendeu aos seguintes requisitos:
 
 ```bash
 # Clone o repositório:
-git clone https://github.com/gabrielimoreira/rocketseat-fundamentos-reactjs.git
+git clone https://github.com/gabrielimoreira/rocketseat-ignite-feed-ts.git
 
 # Acesse a pasta do projeto:
-cd rocketseat-fundamentos-reactjs
+cd rocketseat-ignite-feed-ts
 
 # Instale as dependências:
 npm install | yarn install
@@ -87,7 +87,7 @@ Para rodar, inicie o projeto com:
 npm run dev | yarn dev
 ```
 
-> Normalmente, a aplicação estará disponível em: ➡️ http://localhost:5173/
+> Normalmente, a aplicação estará disponível em: ➡️ http://localhost:3000/
 
 ### 🔍 Verificar o Linter
 
